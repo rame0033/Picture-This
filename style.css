@@ -38,6 +38,7 @@ img {
     grid-template-columns: repeat(2, 1fr);
   }
 
+  /* Adds max-width to image */
   img{
     width: 100%;
   }
